@@ -9,7 +9,7 @@ This project is a Multi-Threaded game of 'set' written in java, designed to supp
 
 - <b>Java</b>
 - <b>Inheritance, polymorphism and object-oriented java concepts
-- <b>Handling concurrency issues such as deadlocks, livelocks, corruption of information etc, using multiple methods such as Java synchronization system, Atomic variables,   Semaphore  etc</b>
+- <b>Handling concurrency and synchronization issues such as deadlocks, livelocks, corruption of information etc, using multiple methods such as Java synchronization system, Atomic variables,   Semaphore  etc</b>
 <h2>Environments Used </h2>
 - <b>Linux Ubuntu 20.04 LTS on VM</b> 
 
